@@ -20,7 +20,7 @@ h1 {
 
 }
 
-.ex1  {
+.numberToMatch  {
 background-color: aqua;
 width: 150px;
 height:150px;
@@ -29,8 +29,8 @@ height:150px;
 
 }
 
-.ex2  {
-background-color: sienna;
+.winsAndLosses {
+background-color: plum;
 width: 150px;
 height: 150px;
 margin: 200px;
@@ -39,8 +39,8 @@ margin-top: -165px;
 
 }
 
-.ex3  {
-    background-color: bisque;
+.userTotal {
+    background-color: purple;
     width: 150px;
     height:150px;
     margin-left: 400px;
@@ -94,22 +94,15 @@ background: radial-gradient(circle at 100px 100px, #5cabff, #000);
             .circle1, .circle2, .circle3, .circle4,  a:hover{
                 cursor: pointer;
                 float: left;
-                margin: auto;
+                
+        
+                
+
                 
                 
             }
 
-            .button {
-                background-color:gray;
-                border:none;
-                color: white;
-                padding: 15px 30px;
-                text-align: center;
-                display: inline-block;
-                font-size: 16px;
-                cursor: pointer;
-                margin: 100px;
-                
+            
                 
 
-            }
+            
