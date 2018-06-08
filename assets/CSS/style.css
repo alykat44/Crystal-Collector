@@ -1,15 +1,15 @@
 h1 {
-    background-color:gray;
+    background-color: #5cabff;
     text-align: center;
     font-style: italic ;
     font-style: oblique;
     padding: 40px;
-    font-size: 70px;
+    font-size: 80px;
     margin-top: 0;
 }
 
 #container2 {
-     background-color: gray;
+     background-color: #5cabff;
      padding-top: 5px;
      width: 40%;
      margin-top: -40px;
@@ -24,6 +24,9 @@ h1 {
 background-color: aqua;
 width: 150px;
 height:150px;
+font-size: 20px;
+font-weight: bold;
+font-style: italic;
 
 
 
@@ -35,6 +38,9 @@ width: 150px;
 height: 150px;
 margin: 200px;
 margin-top: -165px;
+font-size: 20px;
+font-weight: bold;
+font-style: italic;
 
 
 }
@@ -45,6 +51,9 @@ margin-top: -165px;
     height:150px;
     margin-left: 400px;
     margin-top: -350px;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
 }
 
 
@@ -93,7 +102,9 @@ background: radial-gradient(circle at 100px 100px, #5cabff, #000);
 
             .circle1, .circle2, .circle3, .circle4,  a:hover{
                 cursor: pointer;
-                float: left;
+                
+               float: left;
+
                 
         
                 
